@@ -1,10 +1,13 @@
-#this is my end to end projectgit init
+# this is my end to end project
 
-'''
+```
+git init
+```
+
+```
 git add abc.txt
 
 git add .
-
-'''
-git commit -m "this is my first commit"
-'''
+```
+git commit -m"this is my first commit"
+```
