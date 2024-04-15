@@ -4,8 +4,8 @@
 
 
 class ModelTrainer:
-    def__init__(self):
-     pass
+    def __init__(self):
+        pass
 
-def initiate_data_trainer(self):
+def initiate_model_training(self):
     pass

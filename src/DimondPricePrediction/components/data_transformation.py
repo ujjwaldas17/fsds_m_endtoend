@@ -1,8 +1,8 @@
 
 
-class DataTransformation:
-    def__init__(self):
-     pass
+class DataTransormation:
+  def __init__(self): 
+    pass
 
 def get_data_transformation(self):
     pass
